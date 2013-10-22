@@ -30,13 +30,11 @@ Welcome to Ed's 49ers fanpage!
 </select>
 
 
-<form name="myform" action="http://www.mydomain.com/myformhandler.cgi" method="POST">
 <div align="center">
 <br><br>
 <input type="text" size="25" value="Enter your name here!">
 <br><input type="submit" value="Send me your name!"><br>
 </div>
-</form>
 
 
 
@@ -46,6 +44,7 @@ Check Out <a href="http://www.49ers.com/gameday/season-schedule.html" target="bl
 <body2>
 Send me <a href="mailto:echennault@yahoo.com?subject=49ers for life!">Mail!</a>
 </body2>
+
 
 </body>
 </head>
