@@ -23,15 +23,12 @@ Welcome to Ed's 49ers fanpage!
 <img src="http://www.baysportsreport.com/wp-content/uploads/sites/2/2013/08/san-francisco-49ers-logo.png" /img>
 
 
-
-
-<div align="center">
-<select name="mydropdown">
-<option value="Kaep">Colin Kaepernick</option>
-<option value="Gore">Frank Gore</option>
-<option value="SF Defense">SF Defense</option>
+<select>
+  <option>Kaep</option>
+  <option>Gore</option>
+  <option>SF Defense</option>
 </select>
-</div>
+
 
 
 
