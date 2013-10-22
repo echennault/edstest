@@ -30,6 +30,14 @@ Welcome to Ed's 49ers fanpage!
 </select>
 
 
+<form name="myform" action="http://www.mydomain.com/myformhandler.cgi" method="POST">
+<div align="center">
+<br><br>
+<input type="text" size="25" value="Enter your name here!">
+<br><input type="submit" value="Send me your name!"><br>
+</div>
+</form>
+
 
 
 
