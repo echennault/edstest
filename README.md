@@ -23,6 +23,19 @@ Welcome to Ed's 49ers fanpage!
 <img src="http://www.baysportsreport.com/wp-content/uploads/sites/2/2013/08/san-francisco-49ers-logo.png" /img>
 
 
+
+
+<div align="center">
+<select name="mydropdown">
+<option value="Kaep">Colin Kaepernick</option>
+<option value="Gore">Frank Gore</option>
+<option value="SF Defense">SF Defense</option>
+</select>
+</div>
+
+
+
+
 Check Out <a href="http://www.49ers.com/gameday/season-schedule.html" target="blank">49ers 2013 schedule</a>
 
 <body2>
