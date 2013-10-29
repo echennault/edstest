@@ -22,13 +22,19 @@ Welcome to Ed's 49ers fanpage!
 <img src="http://ww3.hdnux.com/photos/24/22/10/5317158/3/628x471.jpg" /img>
 <img src="http://www.baysportsreport.com/wp-content/uploads/sites/2/2013/08/san-francisco-49ers-logo.png" /img>
 
+<hr>
 
-<select>
+<select name="Favorite Player">
   <option>Kaep</option>
   <option>Gore</option>
   <option>SF Defense</option>
 </select>
 
+
+
+
+
+<hr>
 
 <div align="center">
 <br><br>
