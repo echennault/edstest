@@ -46,11 +46,33 @@ Welcome to Ed's 49ers fanpage!
 
 
 
+<ul class="menu-list">
+					<li>
+						<a href="/about">About Ed</a>
+					</li>
+					<li>
+						<a href="http://www.49ers.com/">49ers Official Page</a>
+					</li>
+					<li>
+						<a href="http://www.nfl.com/">NFL</a>
+					</li>
+					<li>
+						<a href="http://www.49ers.com/fans-only/.com/">49ers Fan Page</a>
+					</li>
+			
+					</li>
+				</ul>
+
+
+
+
+
 Check Out <a href="http://www.49ers.com/gameday/season-schedule.html" target="blank">49ers 2013 schedule</a>
 
 <body2>
 Send me <a href="mailto:echennault@yahoo.com?subject=49ers for life!">Mail!</a>
 </body2>
+
 
 
 </body>
