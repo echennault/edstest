@@ -30,11 +30,9 @@ Welcome to Ed's 49ers fanpage!
   <option>SF Defense</option>
 </select>
 
-
-
-
-
 <hr>
+
+
 
 <div align="center">
 <br><br>
@@ -42,6 +40,9 @@ Welcome to Ed's 49ers fanpage!
 <br><input type="submit" value="Send me your name!"><br>
 </div>
 
+<li id="about-me" class="inline-block">
+					<a href="/user_details?userid=_lYEquCWSJQuVIHw1vEdwQ" id="Zabout_me">About Me</a>
+				</li>
 
 
 
